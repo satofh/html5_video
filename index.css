@@ -3,7 +3,6 @@
 }
 
 body {
-    width: 100%;
     padding: 10px;
     font-family: system-ui;
     text-align: center;
@@ -11,5 +10,5 @@ body {
 }
 
 video {
-    width: 50%
+    width: 10%;
 }
