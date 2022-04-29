@@ -9,3 +9,7 @@ body {
     text-align: center;
     font-size:30px;
 }
+
+video {
+    width: 50%
+}
